@@ -26,7 +26,7 @@ int generateRandomNumber() {
 ***/
 int getPlayerGuess() {
     // TODO: Ask the player guest and return the player's number
-    cout << "Your guest number: ";
+    cout << "Your guess number: ";
     int getnum;
     cin>>getnum;
     return getnum;
